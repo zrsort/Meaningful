@@ -6,14 +6,15 @@
 ## 基本操作
 ### 打卡
 * 右滑打卡，左滑菜单。
-* <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/%E5%8F%B3%E6%BB%91%E6%89%93%E5%8D%A1.png" width=400>
+* <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/右滑打卡.png" width=400>
 
 * 打卡通知
   * 下拉，能看到之前的打卡详情，可以直接选择，不必再写。
   * 点击，可输入详情，如打卡"跑步"，详情：”跑了5公里“。
   * 右滑，再次打卡，增加时长和意义值。如打卡一次时学习30分钟，学了1小时，就再右滑一次。
   * 左滑，撤销打卡。手滑了打错卡了，可以撤销。（下个版本的功能，4.6）
-  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡通知.png" width=400>
+  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡通知.png" width=400> 
+  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/近期详情.png" width=400> 
   
 * 打卡记录
   * 自动记录地点，也可手动选择。
