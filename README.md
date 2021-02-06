@@ -93,18 +93,18 @@
   * 设置中可选择，显示未来X天内的Todo，太久以后的todo不用现在担心，我一般选三天。
   * Siri中也可以添加ToDo，在Siri集成中说。
   * 第三方app也可以直接分享到Todo，在Siri集成中说。
-<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/todo.png" width=400>
+  <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/todo.png" width=400>
   
 * 什么都能做的习惯搜索栏
   * 支持拼音，缩写，如，”跑“，”pao“，”pb“都可以搜到”跑步“
   * 直接输入打卡详情。”关键字，空格，详情“，如 ”pb 5公里“，右滑打卡习惯，就直接打卡，”跑步，5公里“
+  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/搜索栏打卡.png" width=400>
   * 直接记事，写日记。比如，写”下了一夜的雨，到了早上，茉莉花开了“，搜索结果中，右滑"日记:"即可。
     * 以英文冒号结尾的习惯是记事的，如，“日记:”，"不适:"，"读书:", 可以直接在搜索栏中写详情，不必写搜索关键字，如，“头疼”，"不适:"会出现，直接打卡就好
   * 添加 todo，和打卡一样，向左滑即可。
   * 添加新习惯。
   * 这个搜索栏是最常用的功能。
-<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/搜索栏打卡.png" width=400>
-<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/搜索栏写日记.png" width=400>
+  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/搜索栏写日记.png" width=400 >
 
   
 * 发现联系，在历史中搜索
