@@ -22,7 +22,7 @@
   * 记录中添加照片，日记里可以浏览今日相册。
   * 来不及在事情发生时记录？先拍张照片，有空再打卡，打卡记录里选照片，时间和地点会自动根据照片更新。
   * 照片是凝结了的时光，加一些到记录里吧，让日记更丰富多彩。
-  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡历史.png" width=400>
+  * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡记录详情.png" width=400>
 
 ### 习惯
 * 时长
