@@ -145,7 +145,7 @@
     * 新建指令，指令详细信息中，选择“在共享表单中显示”，改名字为“加入有意义Todo”
     * 添加 "App" -> "有意义" -> “Todo”，具体内容中选“输入快捷指令的信息”。关闭“运行时显示”，流程会更丝滑。
     * 在网页，知乎，抖音等app中看到想读的书，想做的菜，想做的事，点击分享按钮，选“加入有意义Todo”即可。
-    * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/加入有意义todo 共享表单.png" width=400><img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/加入有意义todo.png" width=400>
+    * <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/加入有意义todo 共享表单.png" width=400>  <img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/加入有意义todo.png" width=400>
 
   * Apple Watch运动后自动打卡。
     * “快捷指令” -> “自动化”，添加，“创建个人自动化” -> "Apple Watch体能训练“，选一个训练，如跑步 -> "下一步"
