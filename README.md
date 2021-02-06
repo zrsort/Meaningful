@@ -6,12 +6,14 @@
 ## 基本操作
 ### 打卡
 * 右滑打卡，左滑菜单。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/%E5%8F%B3%E6%BB%91%E6%89%93%E5%8D%A1.png" width=400>
 
 * 打卡通知
   * 下拉，能看到之前的打卡详情，可以直接选择，不必再写。
   * 点击，可输入详情，如打卡"跑步"，详情：”跑了5公里“。
   * 右滑，再次打卡，增加时长和意义值。如打卡一次时学习30分钟，学了1小时，就再右滑一次。
   * 左滑，撤销打卡。手滑了打错卡了，可以撤销。（下个版本的功能，4.6）
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡通知.png" width=400>
   
 * 打卡记录
   * 自动记录地点，也可手动选择。
@@ -19,6 +21,7 @@
   * 记录中添加照片，日记里可以浏览今日相册。
   * 来不及在事情发生时记录？先拍张照片，有空再打卡，打卡记录里选照片，时间和地点会自动根据照片更新。
   * 照片是凝结了的时光，加一些到记录里吧，让日记更丰富多彩。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡历史.png" width=400>
 
 ### 习惯
 * 时长
@@ -38,6 +41,7 @@
   * 意义值不是为了和别人比，而是量化事情的相对价值，知道什么更有意义。
   * 还是不知道选多少意义值，就选10p，以后随时能改。
   * 意义值不能换礼物。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/习惯.png" width=400>
   
 ### 日记
 * 左右滑动穿梭岁月，上下滑动驻足时光。
@@ -64,10 +68,12 @@
     * 到了时间，自动打卡，适合每天一定会做的事情，比如在看一本书，追一部剧。
   * 有意义app不在后台追踪位置，所以自动打卡也是在打开app后出现。
   * Apple Watch运动后自动打卡，会在Siri集成中说。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/习惯高级.png" width=400>
 
 * 不开app打卡
   * 长按系统通知，即可打卡。这样不开app就可以管理一天的任务。需选着，习惯的”计划“ -> "发送通知”。
   * 通过 Siri 打卡，这个会在 Siri 集成中说。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/长按通知.png" width=400>
 
 * 所有任务，汇于一处
   * “今日”中汇集了当下所有要打卡的任务。
@@ -87,6 +93,7 @@
   * 设置中可选择，显示未来X天内的Todo，太久以后的todo不用现在担心，我一般选三天。
   * Siri中也可以添加ToDo，在Siri集成中说。
   * 第三方app也可以直接分享到Todo，在Siri集成中说。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/todo.png" width=400>
   
 * 什么都能做的习惯搜索栏
   * 支持拼音，缩写，如，”跑“，”pao“，”pb“都可以搜到”跑步“
@@ -96,6 +103,9 @@
   * 添加 todo，和打卡一样，向左滑即可。
   * 添加新习惯。
   * 这个搜索栏是最常用的功能。
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/搜索栏打卡.png" width=400>
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/搜索栏写日记.png" width=400>
+
   
 * 发现联系，在历史中搜索
   * 一次搜索多个关键字，发现规律。
@@ -134,6 +144,13 @@
     * 添加 "App" -> "有意义" -> "打卡"，把“日记”替换为“跑步”即可。
     * 运动开始或结束时，会自动打卡跑步。
     * 同理，可以添加各种运动，如游泳，打球...
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡日记.png" width=400>
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡.png" width=400>
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/打卡这里.png" width=400>
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/加入有意义todo 共享表单.png" width=400>
+<img src="https://raw.githubusercontent.com/zrsort/Meaningful/main/Doc/Image/加入有意义todo.png" width=400>
+    
+    
   
 ## 休闲操作
 * 创建自己的主题
